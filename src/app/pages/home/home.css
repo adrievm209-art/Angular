@@ -1,0 +1,20 @@
+.card {
+text-align: center;
+width: 300px;
+overflow: hidden;
+height: 420px;
+border: 2px solid rgb(111, 35, 35);
+border-radius: 6px;
+margin: 50px;
+display: flex;
+flex-direction: column;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+

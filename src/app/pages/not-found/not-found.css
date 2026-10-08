@@ -1,0 +1,13 @@
+.notFound {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    gap: 30px;
+  }
+  p {
+    font-size: 3rem;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bolder;
+  }
